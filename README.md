@@ -1,5 +1,12 @@
-### Hi there 👋
+## Hi there, Ibraheem Siddiqui here
 
+
+## About Me
+Almost completed the [HyperionDev DfE sponsored Software Engineering (Fundamentals) Bootcamp](https://www.hyperiondev.com/portfolio/124391/). The teaching focused on Python, with an introduction to SQL, HTML5, and CSS.
+
+## Career aspirations
+I am aiming to enter a Software Engineering degree apprenticeship to expand my foundational understanding and understand how to apply my skills to real-world problems.
+  
 <!--
 **ia-siddiqui/ia-siddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
