@@ -2,7 +2,7 @@
 
 
 ## About Me
-Almost completed the [HyperionDev DfE sponsored Software Engineering (Fundamentals) Bootcamp](https://www.hyperiondev.com/portfolio/124391/). The teaching focused on Python, with an introduction to SQL, HTML5, and CSS.
+Completed the [HyperionDev DfE sponsored Software Engineering (Fundamentals) Bootcamp](https://www.hyperiondev.com/portfolio/124391/). The teaching focused on Python, with an introduction to SQL, HTML5, and CSS.
 
 ## Career aspirations
 I am aiming to enter a Software Engineering degree apprenticeship to expand my foundational understanding and learn how to apply my skills to real-world problems.
