@@ -1,4 +1,4 @@
-## Hi there, [Ibraheem Siddiqui](https://www.linkedin.com/in/ibraheem-adnan-siddiqui/) here
+## Hi there, [Ibraheem Adnan Siddiqui](https://www.linkedin.com/in/ibraheem-adnan-siddiqui/) here
 
 
 ## About Me
