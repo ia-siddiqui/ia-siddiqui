@@ -2,10 +2,10 @@
 
 
 ## About Me
-Completed the [HyperionDev DfE sponsored Software Engineering (Fundamentals) Bootcamp](https://www.hyperiondev.com/portfolio/124391/). The teaching focused on Python, with an introduction to SQL, HTML5, and CSS.
+Currently undertaking BSc Computer Science at UCL starting this academic year
 
 ## Career aspirations
-I am aiming to enter a Software Engineering degree apprenticeship to expand my foundational understanding and learn how to apply my skills to real-world problems.
+As a first-year Computer Science student at UCL, I'm passionate about exploring the vast world of technology and problem-solving. I'm currently focused on building a solid foundation in software engineering, with hands-on experience in coding and development. However, I'm also open to discovering other exciting avenues within tech, such as data science, AI, or cybersecurity, as I continue to learn and grow. I'm eager to apply my skills to real-world challenges, collaborate on innovative projects, and contribute to impactful solutions in the future.
   
 <!--
 **ia-siddiqui/ia-siddiqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
